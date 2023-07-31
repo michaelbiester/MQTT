@@ -1,6 +1,6 @@
 # Some Demo Programs for MQTT
 
-Tested with RabbitMQ / MQTT message broker
+Tested with RabbitMQ / MQTT message broker on Windows 10 with Python 3.10.6
 
 The test programs demonstrate publishing and subcribing to a topic.
 
